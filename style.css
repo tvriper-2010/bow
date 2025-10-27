@@ -1,0 +1,11 @@
+body{
+	background-color: black;
+	color: white;
+}
+
+.zac{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	color: darkred;
+}
